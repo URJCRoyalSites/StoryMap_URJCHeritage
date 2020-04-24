@@ -106,7 +106,7 @@ require([
 			// https://developers.arcgis.com/javascript/jsapi/map-amd.html#map1
 			basemap: 'gray',
 			center: [-1,40],
-			zoom: 4,
+			zoom: 5,
 			minZoom: 1,
 			maxZoom: 15,
 			// You don't need to change these
