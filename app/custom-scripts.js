@@ -11,7 +11,7 @@ define(["dojo/topic"], function(topic) {
 	});
 
 	var WEBMAP_ID = "3ea33f88d5644051b720f9cc5362bfcf",
-		LAYER_ID = "sitios_3143";
+		LAYER_ID = "sitios_reakes_6413";
 
 	var clickHandlerIsSetup = false;
 
