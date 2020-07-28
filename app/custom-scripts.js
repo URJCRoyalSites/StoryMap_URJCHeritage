@@ -10,7 +10,7 @@ define(["dojo/topic"], function(topic) {
 	 */
 	});
 
-	var WEBMAP_ID = "3ea33f88d5644051b720f9cc5362bfcf",
+	var WEBMAP_ID = "427bf4d4b55846499d4bb00d66bda73e",
 		LAYER_ID = "sitios_reales2_7489";
 
 	var clickHandlerIsSetup = false;
